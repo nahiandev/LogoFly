@@ -6,7 +6,7 @@ Version: 1.0.0
 Author: Ibne Nahian(@nahiandev)
 Author URI: https://github.com/nahiandev
 Text Domain: logofly
-Plugin URI: https://github.com/nahiandev/LogoFly-WP
+Plugin URI: https://github.com/nahiandev/LogoFly
 */
 
 
