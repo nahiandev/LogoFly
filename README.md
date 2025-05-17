@@ -48,7 +48,7 @@ Transform your WordPress login screen with pixel-perfect branding control. LogoF
 
 ## 🧑‍💻 Developers
 
-- Ibne Nahian (@nahiandev)
+- [Ibne Nahian (@nahiandev)](https://www.linkedin.com/in/nahiandev/)
 
 ### Filters Available
 ```php
