@@ -1,12 +1,12 @@
 # LogoFly - WordPress Login Customizer
 
-![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/logofly?style=flat-square)
+<!-- ![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/logofly?style=flat-square)
 ![License](https://img.shields.io/badge/license-GPLv2%2B-blue.svg?style=flat-square)
-![Tested WP Version](https://img.shields.io/badge/Tested%20up%20to-6.5-green.svg?style=flat-square)
+![Tested WP Version](https://img.shields.io/badge/Tested%20up%20to-6.5-green.svg?style=flat-square) -->
 
 Transform your WordPress login screen with pixel-perfect branding control. LogoFly replaces the default WordPress logo with your custom branding while offering precise sizing tools and smooth animations.
 
-![LogoFly Admin Interface](https://github.com/nahiandev/LogoFly/blob/main/screenshots/settings-preview.png)
+![LogoFly Admin Interface](https://github.com/nahiandev/LogoFly/blob/main/screenshots/Screenshot_1.png)
 
 ## ✨ Features
 
@@ -27,7 +27,7 @@ Transform your WordPress login screen with pixel-perfect branding control. LogoF
 
 ## 🚀 Installation
 
-1. Download the [latest release](https://github.com/nahiandev/LogoFly/releases)
+1. Download the plugin from [GitHub](https://github.com/nahiandev/LogoFly)
 2. Go to **WordPress Admin → Plugins → Add New → Upload Plugin**
 3. Upload the `logofly.zip` file
 4. Activate the plugin
@@ -44,7 +44,7 @@ Transform your WordPress login screen with pixel-perfect branding control. LogoF
 4. **Save Changes**  
    Instantly see results on your login screen
 
-![Login Screen Customization](https://github.com/nahiandev/LogoFly/blob/main/screenshots/login-preview.png)
+![Login Screen Customization](https://github.com/nahiandev/LogoFly/blob/main/screenshots/Screenshot_2.png)
 
 ## 🧑‍💻 Developers
 
