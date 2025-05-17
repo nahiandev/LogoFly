@@ -56,3 +56,12 @@ add_filter('logofly_default_height', function() { return 120; });
 
 // Modify animation speed
 add_filter('logofly_animation_duration', function() { return '5s'; });
+```
+
+### Actions Available
+```php
+// Add custom CSS to login page
+add_action('logofly_login_head', function() {
+    echo '<style>.login { background: #f0f0f0; }</style>';
+});
+```
