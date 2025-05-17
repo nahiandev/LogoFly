@@ -1,26 +1,34 @@
 === LogoFly ===
 Contributors: @nahiandev
-Tags: login, logo, branding, animation
+Tags: login, logo, branding, animation, resize
 Requires at least: 5.6
 Tested up to: 6.5
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Transform your WordPress login screen with animated brand logos.
+Professional login screen customization with pixel-perfect logo resizing.
 
 == Description ==
-LogoFly offers:
-- Custom logo uploader
-- 3 animation effects (fade, bounce, spin)
-- Mobile-responsive design
-- White-label capabilities
+LogoFly now includes:
+✓ Precise logo dimension controls
+✓ Aspect ratio locking
+✓ Real-time preview
+✓ Responsive scaling
+✓ 4 animation effects
+✓ Mobile-friendly design
 
 == Installation ==
-1. Upload to `/wp-content/plugins/logofly/`
-2. Activate through WordPress admin
-3. Configure under Settings → LogoFly
+1. Upload the ZIP via Plugins → Add New
+2. Activate and visit Settings → LogoFly
+3. Upload logo and adjust dimensions
 
 == Changelog ==
+= 1.1.0 =
+* Added logo resizing controls
+* Implemented aspect ratio locking
+* Enhanced preview system
+* Improved mobile responsiveness
+
 = 1.0.0 =
-* Initial release with premium features
+* Initial release

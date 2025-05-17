@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: LogoFly
-Description: Replace the default WordPress login logo with your own.
+Description: Premium WordPress login customizer with logo resizing and animations.
 Version: 1.0.0
 Author: Ibne Nahian(@nahiandev)
 Author URI: https://github.com/nahiandev
@@ -13,7 +13,7 @@ Plugin URI: https://github.com/nahiandev/LogoFly-WP
 defined('ABSPATH') || exit;
 
 // Define plugin constants
-define('LOGOFLY_VERSION', '1.0.0');
+define('LOGOFLY_VERSION', '1.1.0');
 define('LOGOFLY_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('LOGOFLY_PLUGIN_URL', plugin_dir_url(__FILE__));
 

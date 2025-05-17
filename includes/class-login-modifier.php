@@ -12,15 +12,24 @@ class Login_Modifier {
         $options = get_option('logofly_options');
         if (empty($options['logo_url'])) return;
 
+        $width = $options['logo_width'] ?? 320;
+        $height = $options['logo_height'] ?? 80;
         $animation = $options['logo_animation'] ?? 'none';
         ?>
         <style type="text/css">
             #login h1 a {
                 background-image: url(<?php echo esc_url($options['logo_url']); ?>) !important;
                 background-size: contain !important;
-                width: 320px !important;
-                height: 80px !important;
+                width: <?php echo absint($width); ?>px !important;
+                height: <?php echo absint($height); ?>px !important;
                 <?php echo $this->get_animation_css($animation); ?>
+            }
+            
+            @media (max-width: 480px) {
+                #login h1 a {
+                    width: <?php echo absint($width * 0.8); ?>px !important;
+                    height: <?php echo absint($height * 0.8); ?>px !important;
+                }
             }
         </style>
         <?php
