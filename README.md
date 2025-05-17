@@ -70,6 +70,6 @@ add_action('logofly_login_head', function() {
 
 <hr>
 
-### 💼 Hire the Developer
+## 💼 Hire the Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nahiandev) | [![Upwork](https://img.shields.io/badge/Upwork-Hire-green?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01ded0be5baccfa296)
