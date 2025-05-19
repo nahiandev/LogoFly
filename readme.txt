@@ -4,8 +4,7 @@ Tags: login, logo, branding, animation, resize
 Requires at least: 5.6
 Tested up to: 6.5
 Stable tag: 1.1.0
-License: GPL-2.0+
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT
 
 Professional login screen customization with pixel-perfect logo resizing.
 
