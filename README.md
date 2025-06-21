@@ -1,9 +1,5 @@
 # LogoFly - WordPress Login Customizer
 
-<!-- ![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/logofly?style=flat-square)
-![License](https://img.shields.io/badge/license-GPLv2%2B-blue.svg?style=flat-square)
-![Tested WP Version](https://img.shields.io/badge/Tested%20up%20to-6.5-green.svg?style=flat-square) -->
-
 Transform your WordPress login screen with pixel-perfect branding control. LogoFly replaces the default WordPress logo with your custom branding while offering precise sizing tools and smooth animations.
 
 ![LogoFly Admin Interface](https://github.com/nahiandev/LogoFly/blob/main/screenshots/Screenshot_1.png)
